@@ -1,4 +1,4 @@
-import { build, getBuildConfig } from "blacksquereui.cssbuilder"
+import { build, getBuildConfig } from "@blacksquareui/cssbuilder"
 
 function blackSquareUI() {
     return {
