@@ -12,7 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@blacksquereui/cssbuilder": "^1.0.0"
+    "@blacksquareui/cssbuilder": "^1.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.16.0",
