@@ -6,7 +6,6 @@ function blackSquareUI() {
         async transform(_code: string, id: string) {
             const { sourceDir, fileExtension, outputFile } = await getBuildConfig()
             if (id.endsWith(fileExtension)) {
-                console.log(fileExtension)
                 await build({ sourceDir, fileExtension, outputFile })
             }
         },
