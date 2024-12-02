@@ -1,6 +1,6 @@
 {
   "name": "@blacksquareui/vitebuilder",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/app.js",
   "scripts": {
     "start": "tsc && node dist/app.js",
@@ -12,7 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@blacksquareui/cssbuilder": "^1.0.5"
+    "@blacksquareui/cssbuilder": "^1.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.16.0",
