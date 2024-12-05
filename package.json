@@ -1,6 +1,8 @@
 {
   "name": "@blacksquareui/vitebuilder",
-  "version": "1.0.5",
+  "version": "1.0.6",
+  "license": "MIT",
+  "author": "dyooreen <dyooreen@icloud.com> (https://dyooreen.com)",
   "main": "dist/app.js",
   "scripts": {
     "start": "tsc && node dist/app.js",
@@ -8,9 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "description": "This is a vite pligin for BlackSquareUI",
   "dependencies": {
     "@blacksquareui/cssbuilder": "^1.0.0"
   },
