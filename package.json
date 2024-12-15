@@ -1,6 +1,6 @@
 {
   "name": "@blacksquareui/vitebuilder",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "MIT",
   "author": "dyooreen <dyooreen@icloud.com> (https://dyooreen.com)",
   "main": "dist/app.js",
@@ -12,7 +12,7 @@
   "keywords": [],
   "description": "This is a vite pligin for BlackSquareUI",
   "dependencies": {
-    "@blacksquareui/cssbuilder": "^1.0.0"
+    "@blacksquareui/cssbuilder": "^1.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.16.0",
